@@ -24,6 +24,16 @@ This project demonstrates essential automation concepts, including:
 - Reusable TestNG setup with `@BeforeClass` and `@AfterClass`  
 
 ---
+## 🔹 Key Features Demonstrated
+| Feature                    | Description                                    |
+| -------------------------- | ---------------------------------------------- |
+| Page Navigation            | Validate titles and URLs                       |
+| Forms & Login              | Test login functionality with validations      |
+| Checkboxes & Radio Buttons | Select and verify checkbox/radio button states |
+| Dropdowns                  | Select options and verify selection            |
+| Tables                     | Validate dynamic table data                    |
+| Alerts & Popups            | Handle JS alerts and confirm dialogs           |
+| Mouse Actions / Hover      | Hover over elements and validate tooltips      |
 
 
 ---
